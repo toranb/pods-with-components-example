@@ -34,7 +34,7 @@
     "ember-cli-uglify": "^1.0.1",
     "ember-disable-proxy-controllers": "^1.0.0",
     "ember-export-application-global": "^1.0.2",
-    "ember-cli-auto-register": "0.1.5",
+    "ember-cli-auto-register": "1.0.1",
     "ember-cli-injection": "^0.2.1",
     "ember-promise": "^0.2.1",
     "express": "^4.13.0",
