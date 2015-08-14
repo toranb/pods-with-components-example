@@ -94,3 +94,11 @@ test('detail model requires a name with len greater than 4 chars', function(asse
     assert.equal(find(".name-validation-error").is(":hidden"), true);
   });
 });
+
+test('clicking save in detail view should show message when complete', function(assert) {
+  visit("/customers/1");
+  click(".save-btn");
+  andThen(function() {
+    assert.equal(find(".complete").text(), "detail view save invoked");
+  });
+});
