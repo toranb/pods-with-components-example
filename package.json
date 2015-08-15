@@ -38,7 +38,7 @@
     "ember-cli-injection": "^1.0.0",
     "ember-cli-simple-store": "^3.0.0",
     "ember-cli-auto-register": "^1.0.1",
-    "ember-cli-simple-validation": "^1.0.3",
+    "ember-cli-simple-validation": "^1.1.0",
     "ember-promise": "^1.1.1",
     "express": "^4.13.0",
     "glob": "^4.5.3",
